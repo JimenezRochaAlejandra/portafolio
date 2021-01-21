@@ -1,0 +1,13 @@
+Páginas en línea.
+
+1. Página acerca de diplomados de especialidad clínica: https://sdaec.org
+
+Creación de la página informativa sobre diplomados de la sociedad de diplomados de alta especialidad clínica. 
+Realización del diseño y distribución de imágenes, utilización de plugins para el pie de página y contacto con WhatsApp.
+Menú segmentado en seis secciones y cada uno con sus respectiva información. Utilizando títulos y letras adecuados tanto para ordenador como para teléfono.
+Ligamiento con las redes sociales de SDAEC.
+
+2. http://zapatoff.com/caballero
+Página web utilizando bootstrap para compra de calzado en línea. Cada imagen se hizo interactiva para poder escoger el número del calzado.
+Se crearon formularios para poder hacer los envíos respectivamente. Pie de página y contacto con la tienda.
+
